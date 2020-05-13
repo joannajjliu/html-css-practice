@@ -1,7 +1,7 @@
 # html-css-practice
 An assembly of html css practice code
 
-## Folder: Smooth scroll (and scroll snapping):
+## Folder: smooth-scroll:
 From Traversy Media, implements smooth scroll in one of three ways:
 #### 1. CSS: 
 - includes both smooth scroll, and scroll snapping (scroll-snap-type, and scroll-snap-align)
