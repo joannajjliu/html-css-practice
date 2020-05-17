@@ -21,4 +21,5 @@ From Lynda.com, "CSS Layouts: From Float to Flexbox and Grid" by Christina Truon
 - In index.html, modify the stylesheet href link to the desired css file, to test float vs flexbox vs grid
 
 ## Folder: timeline:
+- From Online Tutorials course (Youtube) to create responsive css timelines
 ![screenshots of timeline design](./timeline/timeline-preview.png)
