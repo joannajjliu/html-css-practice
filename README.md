@@ -19,3 +19,6 @@ From Traversy Media, implements smooth scroll in one of three ways:
 From Lynda.com, "CSS Layouts: From Float to Flexbox and Grid" by Christina Truong:
 #### How to use:
 - In index.html, modify the stylesheet href link to the desired css file, to test float vs flexbox vs grid
+
+## Folder: timeline:
+![screenshots of timeline design](./timeline/timeline-preview.png)
