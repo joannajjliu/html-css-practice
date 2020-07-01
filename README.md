@@ -1,6 +1,13 @@
 # html-css-practice
 An assembly of html css practice code
 
+## Folder: dark-light-mode:
+- From tutorial, [dark/light mode](https://dev.to/ananyaneogi/create-a-dark-light-mode-switch-with-css-variables-34l8) by Ananya Neogi, to create dark/light mode switch using CSS variables
+#### How to use:
+- From index.html, run live server
+- From main.scss, run "watch sass". Only edit main.scss, this is then translated to css in main.css.
+![screenshots of dark/light mode](./dark-light-mode/dark-light-preview.png)
+
 ## Folder: smooth-scroll:
 From Traversy Media, implements smooth scroll in one of three ways:
 #### 1. CSS: 
